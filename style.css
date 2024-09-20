@@ -13,7 +13,7 @@ h1 {
 }
 
 body {
-  background-image: url('wallpaperflare.com_wallpaper.jpg');
+  background-image: url(../wallpaperflare.com_wallpaper.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;  
   background-size: cover;
