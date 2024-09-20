@@ -25,6 +25,7 @@ p {
   color:white;
 }
 
-li {
+li.normal {
   color:white;
+  background-color: transparent;
 }
