@@ -10,11 +10,13 @@ div {
 
 h1 {
     text-decoration: underline;
+    color: white;
 }
 
-body {
-  background-image: url(wallpapersden.com_dark-blue-ios-13-apple_wxl.jpg);
-  background-repeat: no-repeat;
-  background-attachment: fixed;  
-  background-size: cover;
+h2 {
+  color:white;
+}
+
+a {
+  color:white;
 }
