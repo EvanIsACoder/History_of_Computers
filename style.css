@@ -30,8 +30,7 @@ li.normal {
   background-color: transparent;
 }
 
-
-table {
+tr {
   width: 1000px;
   border:0px;
   padding:20px;
